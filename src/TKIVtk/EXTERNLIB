@@ -14,6 +14,5 @@ vtkCommonCore
 vtkRenderingCore
 vtkRenderingOpenGL
 vtkRenderingFreeType
-vtkRenderingFreeTypeOpenGL
 vtkFiltersGeneral
 vtkInteractionStyle
